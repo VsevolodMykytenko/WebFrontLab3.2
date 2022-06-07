@@ -1,0 +1,44 @@
+body{
+    background: aquamarine;
+    color: black;
+    font-family: "Trebuchet MS", Arial, "Times New Roman", serif;
+    font-size: 12px;
+}
+
+img{
+    max-height: 100%;
+    width: 100%;
+}
+
+#container{
+    background: cornflowerblue;
+    margin: 30px auto;
+    width: 70%;
+    height: 70%;
+}
+
+#top_container{
+
+    width: 100%;
+    display: flex;
+}
+
+#top_image{
+    width: 50%;
+}
+
+#top_text{
+    background: brown;
+    width: 50%;
+}
+
+#center_text{
+    background: darkgoldenrod;
+    height: 33%;
+    width: 100%;
+}
+
+#bottom_image{
+    height: 33%;
+    width: 100%;
+}
